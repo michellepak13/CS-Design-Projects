@@ -1,11 +1,36 @@
 p {
-  color: ed;
+  color:royalblue;
+}
+
+h1 {
+  color: royalblue;
+  font-family: Papyrus;
+}
+
+p2 {
+  color: darkseagreen;
+}
+
+p3 {
+  color: darkseagreen;
+}
+
+p4 {
+  color: darkseagreen;
+}
+
+p5 {
+  color: darkseagreen;
+}
+
+body {
+   background-color: lightsteelblue;
 }
 
 .container {
   display: flex;
   justify-content: center;
-  flex-direction: columns; /* Try changing this to 'column' instead!*/
+  flex-direction: column; /* Try changing this to 'column' instead!*/
   gap: 10px;
   padding: 20px;
 }
